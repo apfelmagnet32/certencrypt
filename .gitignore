@@ -1,0 +1,9 @@
+# build output and local test data
+/certencrypt
+/certencrypt.exe
+/dist/
+/rel/
+*.key
+*.pfx
+*.p12
+*.enc
